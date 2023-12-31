@@ -1,0 +1,38 @@
+.e {
+	display: inline-block;
+	color: #FFFFFF;
+	background-color: #08A3A5;
+	text-align: center;
+	text-decoration: none;
+	font-size: 50px;
+	padding: 14px 16px;
+	border-radius: 20px;
+	align-content: center;
+}
+
+.e:hover {
+	display: inline-block;
+	color: #08A3A5;
+	background-color: #FFFFFF;
+	text-align: center;
+	text-decoration: none;
+	font-size: 50px;
+	padding: 14px 16px;
+	border-radius: 20px;
+	align-content: center;
+}
+
+body {
+    font-family: Verdana, sans-serif;
+    margin: 0;
+	font-size: 17px;
+}
+
+.centered {
+	position: absolute;
+	top: 70%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	font-size: 50px;
+	color: white;
+}
